@@ -1,0 +1,11 @@
+{
+    "itemA":{
+         "item": "itemA",
+         "basePrice": 1000,
+         "discount": 5
+     },
+    "itemB":{
+         "item": "itemB",
+         "basePrice": 100
+     }
+}
