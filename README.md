@@ -1,11 +1,11 @@
 # SuprTaxApp
 Low level design for tax calculation application as per instructions attached (Machine Coding)
 
-#Machine Coding Round
+# Machine Coding Round
 
 Time Limit: 2 hours
 
-#Description
+# Description
 You have to implement a custom service for a billing system that calculates the tax and the
 discount on a given product based on the tax slab and discount percentage provided in the
 JSON configuration.
