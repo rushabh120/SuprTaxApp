@@ -16,3 +16,11 @@ JSON configuration.
 - The tax will be applied to each of the product and not on the entire bill
 - A bill can have more than one product with different price
 - A discount percentage will be applied to the base price
+
+# Sample input files 
+- target/item.json
+- target/tax.json
+
+# Run
+- cd SuprTaxApp/target
+- java -jar SuprTaxApp.jar tax.json item.json
